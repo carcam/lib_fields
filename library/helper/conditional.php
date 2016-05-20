@@ -16,7 +16,7 @@ defined('_JEXEC') or die;
  * @subpackage  Helper
  * @since       1.0
  */
-abstract class SampleHelperAsset extends JHtml
+abstract class ConditionalHelperAsset extends JHtml
 {
 	/**
 	 * Includes assets from media directory, looking in the

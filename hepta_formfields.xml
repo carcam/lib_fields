@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="2.5">
+    <name>Hepta Form Fields</name>
+    <libraryname>hepta_formfields</libraryname>
+    <author>Carlos Cámara</author>
+    <authorEmail>carlos@hepta.es</authorEmail>
+    <authorUrl>www.hepta.es</authorUrl>
+    <copyright>Copyright (C) 2015 Carlos Cámara. All rights reserved.</copyright>
+    <creationDate>October 2015</creationDate>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <version>1.0.0</version>
+    <description>Fields library for Joomla!</description>
+    <files>
+        <folder>form</folder>
+        <folder>helper</folder>
+        <folder>html</folder>
+        <filename>LICENSE</filename>
+        <filename>hepta_formfields.php</filename>
+    </files>
+
+    <!-- Medias -->
+    <media destination="hepta/formfields" folder="media/hepta">
+        <folder>css</folder>
+        <folder>js</folder>
+    </media>
+
+    <languages folder="language">
+        <language tag="en-GB">en-GB/en-GB.lib_hepta_formfields.ini</language>
+    </languages>
+</extension>

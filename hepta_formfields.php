@@ -26,4 +26,4 @@ JHtml::addIncludePath(dirname(__FILE__) . '/html');
 
 // Load library language
 $lang = JFactory::getLanguage();
-$lang->load('lib_sample', JPATH_SITE);
+$lang->load('lib_hepta_formfields', JPATH_SITE);

@@ -12,17 +12,17 @@ defined('_JEXEC') or die;
 /**
  * Html css class.
  *
- * @package     Sample.Library
+ * @package     Hepta Form Fields.Library
  * @subpackage  Html
  * @since       1.0
  */
-abstract class JHtmlSample
+abstract class JHtmlHepta_formfields
 {
 	/**
 	 * Extension name to use in the asset calls
 	 * Basically the media/com_xxxxx folder to use
 	 */
-	const EXTENSION = 'sample';
+	const EXTENSION = 'hepta';
 
 	/**
 	 * Array containing information for loaded files
