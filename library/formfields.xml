@@ -5,8 +5,8 @@
     <author>Carlos Cámara</author>
     <authorEmail>carlos@hepta.es</authorEmail>
     <authorUrl>www.hepta.es</authorUrl>
-    <copyright>Copyright (C) 2015 Carlos Cámara. All rights reserved.</copyright>
-    <creationDate>October 2015</creationDate>
+    <copyright>Copyright (C) 2016 Hepta Technologies SL. All rights reserved.</copyright>
+    <creationDate>May 2016</creationDate>
     <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
     <version>1.0.0</version>
     <description>Fields library for Joomla!</description>
@@ -14,7 +14,6 @@
         <folder>form</folder>
         <folder>helper</folder>
         <folder>html</folder>
-        <filename>LICENSE</filename>
         <filename>hepta_formfields.php</filename>
     </files>
 

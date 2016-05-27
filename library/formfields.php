@@ -9,11 +9,12 @@
 
 defined('_JEXEC') or die;
 
+
 // Ensure that autoloaders are set
 JLoader::setup();
 
 // Global libraries autoloader
-JLoader::registerPrefix('Sample', dirname(__FILE__));
+JLoader::registerPrefix('Hepta', dirname(__FILE__));
 
 // Common fields
 JFormHelper::addFieldPath(dirname(__FILE__) . '/form/field');
