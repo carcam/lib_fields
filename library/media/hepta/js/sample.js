@@ -1,1 +1,0 @@
-var dummyVar = 'sample var'
